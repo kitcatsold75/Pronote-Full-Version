@@ -238,3 +238,6 @@ This repository serves as the official landing page for PRONOTE. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PRONOTE today!**
+
+---
+**Last updated:** 2026-09-10 18:58:52 UTC
